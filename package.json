@@ -1,0 +1,16 @@
+{
+  "name": "CLI",
+  "version": "1.0.0",
+  "description": "",
+  "main": "CLI.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "tvmaze-api": "^0.3.0"
+  }
+}
